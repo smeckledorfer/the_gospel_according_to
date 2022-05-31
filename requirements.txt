@@ -1,2 +1,2 @@
-free_bible
+freebible
 stanza
