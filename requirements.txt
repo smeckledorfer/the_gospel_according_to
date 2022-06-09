@@ -1,2 +1,5 @@
 freebible
 stanza
+math
+matplotlib
+numpy
